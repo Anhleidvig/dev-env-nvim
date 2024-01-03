@@ -1,4 +1,9 @@
-# 💤 LazyVim
+# Setup
 
-A starter template for [LazyVim](https://github.com/LazyVim/LazyVim).
-Refer to the [documentation](https://lazyvim.github.io/installation) to get started.
+## Description
+This is just a LazyVim setup I just do not want to repeat the installation always.
+I did not create this setup, only a few customization.
+
+## Installation
+`cd ~/.config`
+`git clone https://github.com/Anhleidvig/dev-env-nvim.git nvim`
