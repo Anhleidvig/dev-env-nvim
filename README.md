@@ -6,4 +6,5 @@ I did not create this setup, only a few customization.
 
 ## Installation
 `cd ~/.config`
+
 `git clone https://github.com/Anhleidvig/dev-env-nvim.git nvim`
